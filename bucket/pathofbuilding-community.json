@@ -1,10 +1,10 @@
 {
-    "version": "2.50.0",
+    "version": "2.51.0",
     "description": "Offline build planner for Path of Exile, Community Fork",
     "homepage": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
     "license": "MIT",
-    "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/releases/download/v2.50.0/PathOfBuildingCommunity-Portable.zip",
-    "hash": "e86e21885d16456f9a463b9f467b648c44210fb0973de7fe2ad4a0f5b4058c35",
+    "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding/releases/download/v2.51.0/PathOfBuildingCommunity-Portable.zip",
+    "hash": "6f2c4c37ea7a32161a629f53d867e3f952b06816e2aec13f5f246d22ed75da97",
     "pre_install": [
         "if(!(Test-Path \"$dir\\Settings.xml\")) {",
         "    Set-Content \"$dir\\Settings.xml\" -Value '<?xml version=\"1.0\" encoding=\"UTF-8\"?><PathOfBuilding></PathOfBuilding>' -Encoding ascii",
