@@ -1,5 +1,5 @@
 {
-    "version": "2.86.2",
+    "version": "2.86.3",
     "description": "Glide/DirectX implementation on D3D11/12. Play your old Glide and DirectX games even on the latest, modern versions of Windows.",
     "homepage": "https://github.com/dege-diosg/dgVoodoo2",
     "license": "http://dege.freeweb.hu/dgVoodoo2/ReadmeGeneral/#redistributionrights",
@@ -24,8 +24,8 @@
             "dgVoodoo"
         ]
     ],
-    "url": "https://github.com/dege-diosg/dgVoodoo2/releases/download/v2.86.2/dgVoodoo2_86_2.zip",
-    "hash": "b703e1356a71aeed699a4632ef25708251cce4af7a4643587900dab88a6310b2",
+    "url": "https://github.com/dege-diosg/dgVoodoo2/releases/download/v2.86.3/dgVoodoo2_86_3.zip",
+    "hash": "dc965a3298b4fd53942b576fc25a1aa2e36a6b39aafbd78ecabfa4e7e5c9c258",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/dege-diosg/dgVoodoo2/releases/download/v$version/dgVoodoo$underscoreVersion.zip"
