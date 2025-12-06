@@ -1,12 +1,12 @@
 {
-    "version": "1.11.3.286",
+    "version": "1.11.3.332",
     "homepage": "https://github.com/Dummerle/Rare",
     "description": "A graphical frontend for Legendary, the FOSS Epic Games Launcher alternative",
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Dummerle/Rare/releases/download/1.11.3.286/Rare-1.11.3.286.msi",
-            "hash": "88aa16205ac45093dc3d17814728531e2356e01ab25465c1dd8f067e8aa28896"
+            "url": "https://github.com/Dummerle/Rare/releases/download/1.11.3.332/Rare-1.11.3.332.msi",
+            "hash": "c5b1727b9a01818bb22704bf993fe744f2e8a9025e39406e8febd340f118e28b"
         }
     },
     "bin": "rare.exe",
