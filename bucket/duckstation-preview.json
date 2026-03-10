@@ -1,5 +1,5 @@
 {
-    "version": "20260310-g87ce392",
+    "version": "20260310-gcad17e8",
     "description": "A fast PlayStation 1 emulator for PC and Android (preview build)",
     "homepage": "https://github.com/stenzek/duckstation/",
     "license": {
@@ -12,7 +12,7 @@
         "Learn more at: https://www.duckstation.org/wiki/BIOS"
     ],
     "url": "https://github.com/stenzek/duckstation/releases/download/preview/duckstation-windows-x64-release.zip",
-    "hash": "4e8085a450b7099fe2e927e30ac73e0477e6002de0a489961a1c2190dc7dc5e6",
+    "hash": "331118dd3e501e9ceb34589939eee76af856295f3e460b389484d6fcb4386bc2",
     "installer": {
         "script": [
             "New-item \"$dir\\portable.txt\" -ItemType File | Out-Null",
