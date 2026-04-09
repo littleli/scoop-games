@@ -1,5 +1,5 @@
 {
-    "version": "10.0.5",
+    "version": "11.0.0",
     "description": "An open source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability.",
     "homepage": "https://prismlauncher.org/",
     "license": "GPL-3.0-only",
@@ -11,8 +11,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/PrismLauncher/PrismLauncher/releases/download/10.0.5/PrismLauncher-Windows-MSVC-Portable-10.0.5.zip",
-            "hash": "2ef7b0da51c270ba8065dcb1900288df331ec8fd6a3521a786c10c76c70fcc06"
+            "url": "https://github.com/PrismLauncher/PrismLauncher/releases/download/11.0.0/PrismLauncher-Windows-MSVC-Portable-11.0.0.zip",
+            "hash": "a00bc7efb0a57800bf7dbca181657264edc91c4eecbb23d37214d5ccbcca7a0f"
         }
     },
     "suggest": {
