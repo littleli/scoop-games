@@ -1,10 +1,10 @@
 {
-    "version": "20260907102728+0e4bc43",
+    "version": "20260704215934+8ecedcb",
     "description": "App that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching",
     "homepage": "https://github.com/DevilXD/TwitchDropsMiner",
     "license": "MIT",
-    "url": "https://nightly.link/DevilXD/TwitchDropsMiner/actions/runs/34111540324/Twitch.Drops.Miner.Windows.zip#/dl.zip",
-    "hash": "c190d3714938cbc8381443c4e851a5cf7dfc54a8472f5d8106011806a6caf242",
+    "url": "https://nightly.link/DevilXD/TwitchDropsMiner/actions/runs/28720956191/Twitch.Drops.Miner.Windows.zip#/dl.zip",
+    "hash": "7ecfc2cfd254ba5f7f986ff922d6fc0b88f93b3d38e86907818e2d4fc87a9be7",
     "shortcuts": [
         [
             "Twitch Drops Miner (by DevilXD).exe",
