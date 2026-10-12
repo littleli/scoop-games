@@ -1,10 +1,10 @@
 {
-    "version": "0.3a-20261009-git-b23e6be",
+    "version": "0.3a-20261012-git-7a7e23c",
     "description": "Sega Model 3 Arcade Emulator",
     "homepage": "https://github.com/trzy/Supermodel",
     "license": "GPL-3.0-only",
-    "url": "https://github.com/trzy/Supermodel/releases/download/v0.3a-20261009-git-b23e6be/supermodel-0.3a-20261009-git-b23e6be-windows.zip",
-    "hash": "f15836ef92163dd112d93cc6132b26e6645c7a79db08667efa648951596cac2b",
+    "url": "https://github.com/trzy/Supermodel/releases/download/v0.3a-20261012-git-7a7e23c/supermodel-0.3a-20261012-git-7a7e23c-windows.zip",
+    "hash": "3dd5b2e5bc994088d96261cc77c80bafed05b2c63e830e527d8805d7d48c1795",
     "bin": [
         [
             "Launch-Supermodel.ps1",
