@@ -1,12 +1,12 @@
 {
-    "version": "2.35.0",
+    "version": "2.36.0",
     "description": "High-precision automation assistant. Designed for heavy-duty operations and maximum efficiency in Arknights: Endfield.",
     "homepage": "https://github.com/MaaEnd/MaaEnd",
     "license": "AGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/MaaEnd/MaaEnd/releases/download/v2.35.0/MaaEnd-win-x86_64-v2.35.0.zip",
-            "hash": "6f5ee18b9a3af9ac9e315461615896f21f188af53d09d87b97d14dd0d86e9b52"
+            "url": "https://github.com/MaaEnd/MaaEnd/releases/download/v2.36.0/MaaEnd-win-x86_64-v2.36.0.zip",
+            "hash": "c51f3119f922b022f81b844efdfa1346721fda0479863accb440c3b850aa9570"
         }
     },
     "bin": "MaaEnd.exe",
