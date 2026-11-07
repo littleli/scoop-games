@@ -1,5 +1,5 @@
 {
-    "version": "20261107081346-e4e94e5",
+    "version": "20261107160804-1fc45e0",
     "description": "Xbox 360 Emulator Research Project (xenia-canary fork)",
     "homepage": "https://github.com/has207/xenia-edge/",
     "license": {
@@ -11,8 +11,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/has207/xenia-edge/releases/download/e4e94e5/xenia_edge_windows.zip",
-            "hash": "909b21e02f5ecc39c51c343d5906c2208da802b9f1ba8aa11dce6f6a8935c6ea"
+            "url": "https://github.com/has207/xenia-edge/releases/download/1fc45e0/xenia_edge_windows.zip",
+            "hash": "01790feaca97e393b1a6a5492dbd65b829be2cee0f23a9c0f451890b040f5ca4"
         }
     },
     "pre_install": [
